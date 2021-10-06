@@ -1,1 +1,3 @@
-# react-projects-5-menu
+## React project
+
+![screenshot](images/screenshot-menu.png)
